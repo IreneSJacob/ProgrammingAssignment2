@@ -106,7 +106,7 @@ This assignment will be graded via peer assessment.
 
 # Answers
 
-###[Irene Susan Jacob](https://github.com/IreneSJacob/datasciencecoursera/blob/CourseraProgramming/Programming-Assignment-2)
+### [Irene Susan Jacob](https://github.com/IreneSJacob/datasciencecoursera/blob/CourseraProgramming/Programming-Assignment-2)
 ```R
 
 makeCacheMatrix <- function( m = matrix() ) {
